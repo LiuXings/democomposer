@@ -1,14 +1,10 @@
 {
-    "name": "liuxings/democomposer",
-    "description": "a test composer",
-    "type": "project",
-    "license": "MIT",
+    "name": "LiuXings/democomposer",
     "authors": [
         {
             "name": "LiuXings",
             "email": "1252189580@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
